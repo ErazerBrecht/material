@@ -1,8 +1,8 @@
-# Material theme for Shower
+# Red Material theme for Shower
+
+TODO Change printscreen
 
 ![Ribbon screen shot](pictures/canvas.png)
-
-Default theme for the [Shower](https://github.com/shower/shower/) presentation engine. Doesn’t include engine itself. [See it in action](http://shwr.me/shower/themes/material/). Follow [@shower_me](https://twitter.com/shower_me) for support and updates, [file an issue](https://github.com/shower/shower/issues/new) if you have any.
 
 ## Usage
 
