@@ -1,4 +1,4 @@
-const autoprefixer = require('autoprefixer');
+﻿const autoprefixer = require('autoprefixer');
 const csso = require('postcss-csso');
 const gulp = require('gulp');
 const header = require('gulp-header');
@@ -12,7 +12,8 @@ const pkg = require('./package.json');
 const banner = `/**
  * ${ pkg.description }
  * ${ pkg.name } v${ pkg.version }, ${ pkg.homepage }
- * @copyright 2010–${ new Date().getFullYear() } ${ pkg.author.name }, ${ pkg.author.url }
+ * @copyright 2010–2016 Vadim Makeev, http://pepelsbey.net/
+ * @edit by ${ pkg.author.name } ${ new Date().getFullYear() } , ${ pkg.author.url }
  * @license ${ pkg.license }
  */
 `;

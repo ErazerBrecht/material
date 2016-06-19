@@ -9,7 +9,7 @@
   "homepage": "https://github.com/ErazerBrecht/material-red",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ErazerBrecht/material-red"
+    "url": "git://github.com/ErazerBrecht/material-red"
   },
   "bugs": {
     "url": "http://github.com/shower/material/issues"
