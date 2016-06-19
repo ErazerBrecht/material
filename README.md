@@ -1,5 +1,13 @@
 # Red Material theme for Shower
 
+Changed color of material design theme to red. I only changed one variable in the sass file. 
+This repo exists becauce it made me easier to use this template on a lot of slides (seperate npm package)
+
+All credits go to: [Vadim Makeev](https://pepelsbey.net/), the original creator of the material theme for shower.
+He's also the creator of shower. Many thanks for sharing your creation to the world!
+
+## Screenshot
+
 TODO Change printscreen
 
 ![Ribbon screen shot](pictures/canvas.png)
