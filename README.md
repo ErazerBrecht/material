@@ -8,8 +8,6 @@ He's also the creator of shower. Many thanks for sharing your creation to the wo
 
 ## Screenshot
 
-TODO Change printscreen
-
 ![Ribbon screen shot](pictures/canvas.png)
 
 ## Usage
