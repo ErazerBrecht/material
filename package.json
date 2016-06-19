@@ -1,15 +1,15 @@
 {
-  "name": "shower-material",
-  "description": "Material theme for Shower HTML presentation engine",
-  "version": "1.0.4",
+  "name": "shower-red-material",
+  "description": "Red Material theme for Shower HTML presentation engine",
+  "version": "0.0.1",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
+    "name": "Brecht Carlier",
+    "url": "https://erazerbrecht.wordpress.com/"
   },
-  "homepage": "https://github.com/shower/material",
+  "homepage": "https://github.com/ErazerBrecht/material-red",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/material.git"
+    "url": "https://github.com/ErazerBrecht/material-red"
   },
   "bugs": {
     "url": "http://github.com/shower/material/issues"
@@ -25,7 +25,7 @@
     "docs/**",
     "fonts/**",
     "images/**",
-    "pictures/**",
+	"pictures/**",
     "styles/*.css",
     "index.html",
     "LICENSE.md",
