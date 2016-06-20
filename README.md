@@ -18,7 +18,7 @@ Get the Shower template where Material is already included. Download the [templa
 
 If you want to install Material separately you can download the [theme archive](http://shwr.me/material.zip) or install the package:
 
-	npm install shower-material
+	npm install shower-red-material
 
 ## Features
 
